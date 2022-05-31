@@ -298,6 +298,7 @@ a:hover{
     padding: 20px;
     border: none;
     border-radius: 20px 0px 0px 20px;
+    color: #222
 }
 
 #buttonForm{
@@ -310,6 +311,11 @@ a:hover{
     background-color: #222;
     color: white;
     font-weight: bold;
+}
+
+#textArea{
+    background-color: white;
+    color: #222
 }
 
 #input:focus, #textArea:focus{
